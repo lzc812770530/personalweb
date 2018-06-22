@@ -6,3 +6,5 @@ Git is free software distributed under the GPL
   用来记录你的每一次命令
 
 build
+
+git branch -d devgit branch -d dev
