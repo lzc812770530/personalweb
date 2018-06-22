@@ -8,3 +8,4 @@ Git is free software distributed under the GPL
 build
 
 git branch -d dev
+
